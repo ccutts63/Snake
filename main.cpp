@@ -1,4 +1,10 @@
-﻿#include <iostream>
+/*
+ * Author: Christian Cutts
+ * Date: January 13, 2025
+ * Purpose: Snake Game
+*/
+
+#include <iostream>
 #include <conio.h>
 #include <cstdlib>
 #include <windows.h>
